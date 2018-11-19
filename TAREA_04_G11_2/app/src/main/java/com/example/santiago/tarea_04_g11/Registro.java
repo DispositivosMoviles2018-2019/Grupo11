@@ -47,6 +47,7 @@ public class Registro extends AppCompatActivity implements View.OnClickListener 
     RadioButton opc1,opc2;
 
     Button aceptar;
+
     //declarar spinner
     Spinner dia,mes,anio;
     int numero;
